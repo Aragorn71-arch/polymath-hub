@@ -1,2 +1,8 @@
 # polymath-hub
-My personal digital library and curated collection of resources on diverse topics, learning notes, and useful links.
+# Mi Repositorio de Recursos
+
+## Casos y Derecho
+* [Casos Civiles en EE. UU.](https://www.uscourts.gov/about-federal-courts/types-cases/civil-cases) - Explicación de la etapa de preparación, juicios y resolución en cortes federales.
+
+## Otros Temas
+* [Título de otro enlace](URL_AQUÍ) - Breve descripción.
